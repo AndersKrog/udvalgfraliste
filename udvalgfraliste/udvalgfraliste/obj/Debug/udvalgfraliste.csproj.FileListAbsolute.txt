@@ -1,0 +1,6 @@
+C:\Users\Tec\source\repos\udvalgfraliste\udvalgfraliste\bin\Debug\udvalgfraliste.exe.config
+C:\Users\Tec\source\repos\udvalgfraliste\udvalgfraliste\bin\Debug\udvalgfraliste.exe
+C:\Users\Tec\source\repos\udvalgfraliste\udvalgfraliste\bin\Debug\udvalgfraliste.pdb
+C:\Users\Tec\source\repos\udvalgfraliste\udvalgfraliste\obj\Debug\udvalgfraliste.csprojAssemblyReference.cache
+C:\Users\Tec\source\repos\udvalgfraliste\udvalgfraliste\obj\Debug\udvalgfraliste.exe
+C:\Users\Tec\source\repos\udvalgfraliste\udvalgfraliste\obj\Debug\udvalgfraliste.pdb
